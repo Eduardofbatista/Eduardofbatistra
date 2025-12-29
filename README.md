@@ -5,10 +5,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eduardofbatista&style=for-the-badge" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardofbatista&style=for-the-badge" alt="profile views" />
   <a href="https://linkedin.com/eduardo-faria-84b5b92a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
