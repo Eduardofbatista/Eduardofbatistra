@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eduardofbatista&style=for-the-badge" alt="profile views" />
-  <a href="https://https://www.linkedin.com/in/eduardo-faria-84b5b92a0/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-faria-84b5b92a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/edufaria_batista" target="_blank">
